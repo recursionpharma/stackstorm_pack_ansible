@@ -1,3 +1,6 @@
+[![scorecard-score](https://github.com/recursionpharma/octo-guard-badges/blob/trunk/badges/repo/stackstorm_pack_ansible/maturity_score.svg?raw=true)](https://infosec-docs.prod.rxrx.io/octoguard/scorecards/stackstorm_pack_ansible)
+[![scorecard-status](https://github.com/recursionpharma/octo-guard-badges/blob/trunk/badges/repo/stackstorm_pack_ansible/scorecard_status.svg?raw=true)](https://infosec-docs.prod.rxrx.io/octoguard/scorecards/stackstorm_pack_ansible)
+[![team-status](https://github.com/recursionpharma/octo-guard-badges/blob/trunk/badges/team/information-technology/team_status.svg?raw=true)](https://infosec-docs.prod.rxrx.io/octoguard/team-reports/information-technology)
 [![Build Status](https://circleci.com/gh/StackStorm-Exchange/stackstorm-ansible.svg?style=shield)](https://circleci.com/gh/StackStorm-Exchange/stackstorm-ansible)
 
 # <img src="http://www.ansible.com/favicon.ico" width="32px" valign="-3px"/> Ansible Integration Pack
